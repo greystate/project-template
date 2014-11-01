@@ -27,6 +27,10 @@ A couple of notes to go with that:
 
 * CodeKit serves the `public` folder as a website
 * `public/assets` and `public/media` are *symlinked* to `umbraco/assets` and `umbraco/media` respectively
+* The `umbraco/assets` folder contains all CSS, JavaScript and images for the design
+* The `umbraco/media` folder contains any content images that needs to be 
+* **.coffee** and **.less** files all compile into the `umbraco/assets` folder
+
 
 Let's see how that fares in the future :-)
 
