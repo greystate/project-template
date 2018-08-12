@@ -21,7 +21,7 @@ $ rm -rf "NEW_PROJECT_NAME/.git"
 
 This should create a structure like this:
 
-<img src="project-template-2018.png" width="349" alt="Project Template" style="border: 3px double #e8e8e8;border-radius: 6px;">
+<img src="project-template-2018.png" width="928" alt="Project Template" style="border: 3px double #e8e8e8;border-radius: 6px;">
 
 A couple of notes to go with that:
 
